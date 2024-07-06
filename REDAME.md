@@ -1,10 +1,10 @@
 # Landing Page
 
-Pagina de uma simples Langin Page que oferece produtos e serviços digitais, para a competitividade do mercado.
+Página de uma simples Langin Page que oferece produtos e serviços digitais, para a competitividade do mercado.
 
 ## 🚀 Começando
-Clone o projeto em sua máquina, copiando o link deste repositório e cole em seu terminal após o comando git clone <link do repositório>.
-Certifique-se de que está no local correto para instalação.
+Clone o projeto em sua máquina, copiando o link deste repositório e cole em seu terminal, após o comando git clone <link do repositório>.
+Certifique-se de que está no local correto, para instalação.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
@@ -14,7 +14,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Você colocou a versão mais recente de<linguagem / dependência / requeridos>
-Você tem uma máquina <Windows / Linux / Mac>. Indique qual sistema operacional é compatível / não compatível.
+Você tem uma máquina <Windows / Linux / Mac>. Todos esses sistemas são compatíveis.
 Você leu <guia / link / documentação_relacionada_ao_projeto>.
 
 
@@ -25,6 +25,7 @@ Para exeutar a <Landing Page>, siga estas etapas:
 Linux e macOS: Projeto roda via navegador.
 
 <Escolha um navegador de sua preferância>
+
 Janelas:
 
 <Escolha um navegador de sua preferância>
@@ -34,27 +35,29 @@ Terá uma visão completa do projeto em tempo de execução.
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+Em seu Vs code,acessando a sua aba de código, vá na barra lateral esquerda e na opção debug e clique em Executar e Depurar,escolha a a opção de navegador, caso não tenha instalado , faça isso imediatamente. [Para iniciar os testes clique no botão run em sua aba de código que é representado por um cetinha circular verde.]
 
 ### 🔩 Analise os testes de ponta a ponta
 
-Explique que eles verificam esses testes e porquê.
+O teste de ponta a ponta garante que todos os componentes do sistema de software trabalhem juntos. Os testadores de software usam essa abordagem para detectar e resolver problemas que podem surgir em qualquer ponto de contato entre componentes e subsistemas de software
 
-```
-Dar exemplos
-```
+Debug/pontos de parada/
+
+Marcar as opções
+Execuções capturadas/Execuções não capturadas/Ponto de interrupção.
+
 
 ### ⌨️ E testes de estilo de codificação
 
-Explique que eles verificam esses testes e porquê.
+Um estilo de programação (ou estilo de codificação) refere-se às práticas que um desenvolvedor segue ao escrever código. As práticas incluem convenções de nomenclatura, formatação, recuo, comentários e estrutura geral do código.
 
-```
-Dar exemplos
-```
+
+Na aba debug acesse a opção desejada
+Scripts carregados/open index.html/escolher opção.
 
 ## 📦 Implantação
 
-Você pode também ao invés de clonar, fazer uma contrbuição a antes de diretamente efetuar o clone, fazer um fork do projeto.
+Você pode também ao invés de clonar, fazer uma contrbuição e antes de diretamente efetuar o clone, fazer um fork do projeto.
 
 ## 🛠️ Construído com
 
@@ -70,7 +73,7 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 ## 📌 Versão
 
-Nós usamos [Vscode](https://code.visualstudio.com) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Nós usamos [Git](https://git-scm.com/downloads) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
 ## ✒️ Autores
 
